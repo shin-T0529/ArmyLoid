@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="シェーダー ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{a2529389-f766-4ddb-9049-6d829473f290}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod">
+      <UniqueIdentifier>{b1d5ae9a-4f58-4727-80a0-a94c971ce28f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneManager">
+      <UniqueIdentifier>{0bf423b0-f5ba-4ce8-a87b-d6b7bc814f25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\1_Title">
+      <UniqueIdentifier>{23883cc5-a46d-415c-ac90-3f5d199ddd05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\3_Play">
+      <UniqueIdentifier>{694b8648-cae0-4a47-9f07-a04043e5cf75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\4_1PWin">
+      <UniqueIdentifier>{da2e21ea-4d38-4f58-8759-2b6c18f5f6c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\5_2PWin">
+      <UniqueIdentifier>{f9a4dedb-cd38-474d-aa56-a59b23badca1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\6_Draw">
+      <UniqueIdentifier>{681fc5e4-e5c7-4a33-ba97-9416c17943fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\7_Credit">
+      <UniqueIdentifier>{219d8cf6-d1a0-4153-9678-30c4e47e7572}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\_Base">
+      <UniqueIdentifier>{edd2deac-a40f-4348-9501-8532c9aab75b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Texture">
+      <UniqueIdentifier>{08fd0f93-b147-4032-9aa2-0c013886da33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resorce">
+      <UniqueIdentifier>{321a5f50-ae1e-495b-a665-96187bbdbdbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Charactor">
+      <UniqueIdentifier>{6c3e150b-bf00-4368-bd55-3bac0c7c4abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Charactor\Player">
+      <UniqueIdentifier>{768f15ee-67b6-45aa-bee8-0ac97c3aa598}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Load">
+      <UniqueIdentifier>{adf0b3f5-c476-4f46-8206-122dbc1245a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Charactor\Object">
+      <UniqueIdentifier>{55e8ac64-eb37-442a-9a40-147b8fa5339c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Effect">
+      <UniqueIdentifier>{cc525261-a9d7-4208-b102-5a17c7e088fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SceneMethod\2_Manual">
+      <UniqueIdentifier>{e983f022-fde7-408c-80a7-3c7e8c217b17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resorce\Mesh">
+      <UniqueIdentifier>{354ecdd0-f30f-4628-bf91-ca3825143d82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resorce\Effect">
+      <UniqueIdentifier>{8eb720d2-f290-47c4-bf4f-1c0a67fdc4d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resorce\Sound">
+      <UniqueIdentifier>{53ad7127-496e-42ab-a03d-3072c9ac8b6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resorce\Skin">
+      <UniqueIdentifier>{c0e70f52-eae4-4274-a8da-bc4bd7d79617}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\DirectSound">
+      <UniqueIdentifier>{359fb4c3-e8f6-495c-9c4d-c2f29133712f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\DebugText">
+      <UniqueIdentifier>{3000a997-abad-4345-a442-10c52e076461}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Direct3D">
+      <UniqueIdentifier>{0c85dedd-a9a5-4beb-a2f1-53f3ecb0aeb1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\SkinMesh">
+      <UniqueIdentifier>{0f3d5e19-c288-4548-9cc2-174571643ad7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Mesh">
+      <UniqueIdentifier>{a1d8bf4e-64d0-4188-b926-c4a1b9f95a88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Resorce\Texture">
+      <UniqueIdentifier>{dcfb9e18-a0af-46fc-bb13-0e5c446337ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\DirectInput">
+      <UniqueIdentifier>{127eea87-bd1b-4108-98f9-bd98b854bf3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\Macro">
+      <UniqueIdentifier>{b7065492-769d-40cf-af84-e212ffe55b71}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Shader\DebugText.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\DirectnalLight.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\Mesh.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\MeshSkin.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\PointSprite.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\Ray.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\Simple.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\Sprite2D.hlsl">
+      <Filter>シェーダー ファイル</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\cCommon.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\SceneManager.cpp">
+      <Filter>ソース ファイル\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\1Pwin.cpp">
+      <Filter>ソース ファイル\SceneMethod\4_1PWin</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\2Pwin.cpp">
+      <Filter>ソース ファイル\SceneMethod\5_2PWin</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Base.cpp">
+      <Filter>ソース ファイル\SceneMethod\_Base</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\2DTex.cpp">
+      <Filter>ソース ファイル\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\BoardPolygon.cpp">
+      <Filter>ソース ファイル\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\C_LoadData.cpp">
+      <Filter>ソース ファイル\Load</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\C_Object.cpp">
+      <Filter>ソース ファイル\Charactor\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\C_Player.cpp">
+      <Filter>ソース ファイル\Charactor\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CEffects.cpp">
+      <Filter>ソース ファイル\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CEffectsMain.cpp">
+      <Filter>ソース ファイル\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Charactor.cpp">
+      <Filter>ソース ファイル\Charactor</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CRay.cpp">
+      <Filter>ソース ファイル\Charactor</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Credit.cpp">
+      <Filter>ソース ファイル\SceneMethod\7_Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Draw.cpp">
+      <Filter>ソース ファイル\SceneMethod\6_Draw</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Manual.cpp">
+      <Filter>ソース ファイル\SceneMethod\2_Manual</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Play.cpp">
+      <Filter>ソース ファイル\SceneMethod\3_Play</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Title.cpp">
+      <Filter>ソース ファイル\SceneMethod\1_Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CResource.cpp">
+      <Filter>ソース ファイル\Resorce\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\EffectResouse.cpp">
+      <Filter>ソース ファイル\Resorce\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CSkinResource.cpp">
+      <Filter>ソース ファイル\Resorce\Skin</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DebugText.cpp">
+      <Filter>ソース ファイル\DebugText</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Direct3D.cpp">
+      <Filter>ソース ファイル\Direct3D</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DirectSoundResource.cpp">
+      <Filter>ソース ファイル\Resorce\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\ED3DXSKINMESH.cpp">
+      <Filter>ソース ファイル\SkinMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DX9Mesh.cpp">
+      <Filter>ソース ファイル\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\TexResource.cpp">
+      <Filter>ソース ファイル\Resorce\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\TwinDInput.cpp">
+      <Filter>ソース ファイル\DirectInput</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Dsound.cpp">
+      <Filter>ソース ファイル\DirectSound</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\DInput.cpp">
+      <Filter>ソース ファイル\DirectInput</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\cCommon.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Game.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Global.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Main.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SceneManager.h">
+      <Filter>ソース ファイル\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\1Pwin.h">
+      <Filter>ソース ファイル\SceneMethod\4_1PWin</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\2Pwin.h">
+      <Filter>ソース ファイル\SceneMethod\5_2PWin</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Base.h">
+      <Filter>ソース ファイル\SceneMethod\_Base</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\2DTex.h">
+      <Filter>ソース ファイル\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\BoardPolygon.h">
+      <Filter>ソース ファイル\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\C_LoadData.h">
+      <Filter>ソース ファイル\Load</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\C_Object.h">
+      <Filter>ソース ファイル\Charactor\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\C_Player.h">
+      <Filter>ソース ファイル\Charactor\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CEffects.h">
+      <Filter>ソース ファイル\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CEffectsMain.h">
+      <Filter>ソース ファイル\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Charactor.h">
+      <Filter>ソース ファイル\Charactor</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CRay.h">
+      <Filter>ソース ファイル\Charactor</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Credit.h">
+      <Filter>ソース ファイル\SceneMethod\7_Credit</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Draw.h">
+      <Filter>ソース ファイル\SceneMethod\6_Draw</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Manual.h">
+      <Filter>ソース ファイル\SceneMethod\2_Manual</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Play.h">
+      <Filter>ソース ファイル\SceneMethod\3_Play</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Title.h">
+      <Filter>ソース ファイル\SceneMethod\1_Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CResource.h">
+      <Filter>ソース ファイル\Resorce\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\EffectResouse.h">
+      <Filter>ソース ファイル\Resorce\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\CSkinResource.h">
+      <Filter>ソース ファイル\Resorce\Skin</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DebugText.h">
+      <Filter>ソース ファイル\DebugText</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Direct3D.h">
+      <Filter>ソース ファイル\Direct3D</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DirectSoundResource.h">
+      <Filter>ソース ファイル\Resorce\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\ED3DXSKINMESH.h">
+      <Filter>ソース ファイル\SkinMesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DX9Mesh.h">
+      <Filter>ソース ファイル\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\TexResource.h">
+      <Filter>ソース ファイル\Resorce\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\TwinDInput.h">
+      <Filter>ソース ファイル\DirectInput</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Dsound.h">
+      <Filter>ソース ファイル\DirectSound</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\DInput.h">
+      <Filter>ソース ファイル\DirectInput</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\MyMacro.h">
+      <Filter>ソース ファイル\Macro</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
